@@ -1,0 +1,6 @@
+acc,f1,prec,rec,eval_f1,dataset,method,text_backbone,seed,logger_name
+15.5,3.33,2.28,6.35,0.0375,MIntRec,misa_a,bert-base-uncased,1,misa_a_MIntRec_multi-class_2025-09-30-11-10-31
+66.5,53.56,54.76,54.6,0.5357,MIntRec,misa_t,bert-base-uncased,1,misa_t_MIntRec_multi-class_2025-09-30-11-11-53
+67.5,55.8,59.19,56.74,0.5375,MIntRec,misa_ta,bert-base-uncased,1,misa_ta_MIntRec_multi-class_2025-09-30-11-14-00
+71.5,65.09,66.64,65.27,0.6138,MIntRec,misa_t_a,bert-base-uncased,1,misa_t_a_MIntRec_multi-class_2025-09-30-11-16-16
+71.5,65.09,66.64,65.27,0.0,MIntRec,misa_t_a,bert-base-uncased,1,misa_t_a_MIntRec_multi-class_2025-09-30-11-28-37

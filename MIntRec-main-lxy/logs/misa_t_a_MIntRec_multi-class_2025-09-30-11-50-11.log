@@ -1,0 +1,54 @@
+2025-09-30 11:50:11,489 - ============================== Params ==============================
+2025-09-30 11:50:11,489 - logger_name: misa_t_a_MIntRec_multi-class_2025-09-30-11-50-11
+2025-09-30 11:50:11,489 - dataset: MIntRec
+2025-09-30 11:50:11,490 - data_mode: multi-class
+2025-09-30 11:50:11,490 - method: misa_t_a
+2025-09-30 11:50:11,490 - text_backbone: bert-base-uncased
+2025-09-30 11:50:11,490 - seed: 1
+2025-09-30 11:50:11,490 - num_workers: 8
+2025-09-30 11:50:11,490 - gpu_id: 0
+2025-09-30 11:50:11,490 - data_path: MIA-datasets
+2025-09-30 11:50:11,490 - train: False
+2025-09-30 11:50:11,490 - tune: False
+2025-09-30 11:50:11,490 - save_model: True
+2025-09-30 11:50:11,490 - save_results: True
+2025-09-30 11:50:11,490 - log_path: logs
+2025-09-30 11:50:11,490 - cache_path: bert_config/bert-base-uncased
+2025-09-30 11:50:11,490 - video_data_path: video_data
+2025-09-30 11:50:11,490 - audio_data_path: audio_data
+2025-09-30 11:50:11,490 - video_feats_path: video_feats.pkl
+2025-09-30 11:50:11,490 - audio_feats_path: lxy.pkl
+2025-09-30 11:50:11,490 - results_path: results
+2025-09-30 11:50:11,490 - output_path: outputs
+2025-09-30 11:50:11,490 - model_path: models
+2025-09-30 11:50:11,490 - config_file_name: misa_bert
+2025-09-30 11:50:11,490 - results_file_name: misa_bert_t_a.csv
+2025-09-30 11:50:11,490 - padding_mode: zero
+2025-09-30 11:50:11,490 - padding_loc: end
+2025-09-30 11:50:11,490 - need_aligned: False
+2025-09-30 11:50:11,490 - eval_monitor: f1
+2025-09-30 11:50:11,490 - train_batch_size: 16
+2025-09-30 11:50:11,490 - eval_batch_size: 8
+2025-09-30 11:50:11,490 - test_batch_size: 8
+2025-09-30 11:50:11,490 - wait_patience: 8
+2025-09-30 11:50:11,490 - num_train_epochs: 20
+2025-09-30 11:50:11,490 - rnncell: lstm
+2025-09-30 11:50:11,490 - use_cmd_sim: False
+2025-09-30 11:50:11,491 - reverse_grad_weight: 0.8
+2025-09-30 11:50:11,491 - hidden_size: 768
+2025-09-30 11:50:11,491 - dropout_rate: 0.1
+2025-09-30 11:50:11,491 - diff_weight: 0.7
+2025-09-30 11:50:11,491 - sim_weight: 0.7
+2025-09-30 11:50:11,491 - recon_weight: 0.6
+2025-09-30 11:50:11,491 - lr: 1e-05
+2025-09-30 11:50:11,491 - grad_clip: -1.0
+2025-09-30 11:50:11,491 - gamma: 0.5
+2025-09-30 11:50:11,491 - pred_output_path: outputs/misa_t_a_MIntRec_multi-class_2025-09-30-11-50-11
+2025-09-30 11:50:11,491 - model_output_path: outputs/misa_t_ao_MIntRec_multi-class_2025-09-04-12-54-49/models
+2025-09-30 11:50:11,491 - ============================== End Params ==============================
+2025-09-30 11:50:11,493 - Generate Text Features Begin...
+2025-09-30 11:50:11,583 - Generate Text Features Finished...
+2025-09-30 11:50:11,591 - Load Video Features Begin...
+2025-09-30 11:50:11,914 - Load Video Features Finished...
+2025-09-30 11:50:11,966 - Load Audio Features Begin...
+2025-09-30 11:50:12,111 - Load Audio Features Finished...

@@ -1,0 +1,12 @@
+acc,f1,prec,rec,eval_f1,dataset,method,text_backbone,seed,logger_name
+15.5,3.33,2.28,6.35,0.0375,MIntRec,misa_a,bert-base-uncased,1,misa_a_MIntRec_multi-class_2025-09-05-16-08-19
+66.5,53.56,54.76,54.6,0.5357,MIntRec,misa_t,bert-base-uncased,1,misa_t_MIntRec_multi-class_2025-09-05-16-10-14
+67.5,55.8,59.19,56.74,0.5375,MIntRec,misa_ta,bert-base-uncased,1,misa_ta_MIntRec_multi-class_2025-09-05-16-12-59
+69.5,66.4,70.34,65.53,0.6072,MIntRec,misa_t_a,bert-base-uncased,1,misa_t_a_MIntRec_multi-class_2025-09-05-16-15-35
+71.5,69.03,72.3,68.32,0.5857,MIntRec,misa_t_a,bert-base-uncased,1,misa_t_a_MIntRec_multi-class_2025-09-10-17-50-22
+71.5,69.03,72.3,68.32,0.5857,MIntRec,misa_t_a,bert-base-uncased,1,misa_t_a_MIntRec_multi-class_2025-09-10-17-57-18
+71.5,65.09,66.64,65.27,0.6138,MIntRec,misa_t_a,bert-base-uncased,1,misa_t_a_MIntRec_multi-class_2025-09-11-09-00-47
+15.5,3.33,2.28,6.35,0.0375,MIntRec,misa_a,bert-base-uncased,1,misa_a_MIntRec_multi-class_2025-09-11-09-06-31
+66.5,53.56,54.76,54.6,0.5357,MIntRec,misa_t,bert-base-uncased,1,misa_t_MIntRec_multi-class_2025-09-11-09-08-24
+67.5,55.8,59.19,56.74,0.5375,MIntRec,misa_ta,bert-base-uncased,1,misa_ta_MIntRec_multi-class_2025-09-11-09-11-32
+71.5,65.09,66.64,65.27,0.6138,MIntRec,misa_t_a,bert-base-uncased,1,misa_t_a_MIntRec_multi-class_2025-09-11-09-14-11
